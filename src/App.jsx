@@ -6,6 +6,7 @@ import Collection from './components/Collections';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Gallery from './components/Gallery';
 
 const App = () => {
   const [currentPage, setCurrentPage] = useState('home');
@@ -16,6 +17,7 @@ const App = () => {
       <Home />
       <About />
       <Collection />
+      <Gallery />
       <Testimonials />
       <Contact />
       <Footer />

@@ -2,7 +2,7 @@
 import React from 'react';
 import women from '../assets/women.png';
 import logo from '../assets/logo.png';
-import backgroundImg from '../assets/C6.png';
+import backgroundImg from '../assets/c6.png';
 
 const About = () => {
   return (
